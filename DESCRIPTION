@@ -1,0 +1,10 @@
+Package: pkg2
+Type: Package
+Title: pkg2
+Version: 0.1.0
+Author: ag
+Maintainer: The package maintainer <ag@somewhere.net>
+Description: pkg2
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
