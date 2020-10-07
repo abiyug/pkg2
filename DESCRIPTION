@@ -1,10 +1,10 @@
 Package: pkg2
 Type: Package
 Title: pkg2
-Version: 0.1.0
+Version: 0.0.1
 Author: ag
 Maintainer: The package maintainer <ag@somewhere.net>
-Description: pkg2 is blank 
+Description: This is a test desciprtoin for pkg2.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
