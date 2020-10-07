@@ -6,7 +6,7 @@ Authors@R:
     person(given = "Abiyu",
            family = "Giday",
            role = c("cre", "aut"),
-           email = "abiyu.giday@datarecode.com"))
+           email = "abiyu.giday@datarecode.com")
 Maintainer: The package maintainer <abiyu.giday@datarecode.com>
 Description: This is a test desciprtoin for pkg2.
 License: MIT + file LICENSE
