@@ -8,3 +8,5 @@ Description: pkg2 is blank
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/abiyug/pkg4
+BugReports: https://github.com/abiyug/pkg2/issues
