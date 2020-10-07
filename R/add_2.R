@@ -1,4 +1,4 @@
-#' @title Add plus 2 to a number (or #' Add plus 2 to a number, roxygen2 will guess it's the title)
+#' @title Add plus 2 to a number
 #'
 #' @description More information about the function but still short.
 #'
