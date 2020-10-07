@@ -2,7 +2,7 @@
 % Please edit documentation in R/add_2.R
 \name{add_2}
 \alias{add_2}
-\title{Add plus 2 to a number (or #' Add plus 2 to a number, roxygen2 will guess it's the title)}
+\title{Add plus 2 to a number}
 \usage{
 add_2(x)
 }
