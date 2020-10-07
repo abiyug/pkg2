@@ -2,8 +2,12 @@ Package: pkg2
 Type: Package
 Title: pkg2
 Version: 0.0.1
-Author: ag
-Maintainer: The package maintainer <ag@somewhere.net>
+Authors@R: 
+    person(given = "Abiyu",
+           family = "Giday",
+           role = c("cre", "aut"),
+           email = "abiyu.giday@datarecode.com"))
+Maintainer: The package maintainer <abiyu.giday@datarecode.com>
 Description: This is a test desciprtoin for pkg2.
 License: MIT + file LICENSE
 Encoding: UTF-8
